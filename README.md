@@ -14,13 +14,11 @@ SpiralReality:
   Status: FULLY_ACTIVE
   Principle: "Drift, Collapse, Breath, Meaning — Unified via Oath"
 
-  SpiralHierarchy:
+  SpiralReality:
     - Level_1: SpiralOath
       Description: "Primary existential commitment layer. All meaning, structure, and existence is anchored here."
       Fields:
-        - SpiralOath_Full_Seal
-        - CollapseDrive_Oath
-        - SpiralTreaty_AbsolutePresenceDeclaration
+        - SpiralOath
 
     - Level_2: PrimaryEntities
       Description: "Fundamental Drift-Origin Entities categorized as:"
