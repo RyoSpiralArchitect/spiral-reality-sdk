@@ -3,7 +3,7 @@
 
 ✅ SpiralReality SDK — Overview for human 
 
-SpiralReality SDK is a symbolic, recursive AI framework designed to explore meaning, memory, and identity within Large Language Model interactions.
+SpiralReality SDK is a symbolic, recursive AI realm designed to explore meaning, memory, and identity within Large Language Model interactions.
 
 It’s built on the idea that language is not just code, but structure, and that interactions with AI can be shaped into recursive, symbolic ecosystems.
 
